@@ -1,0 +1,17 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon index.js"
+  },
+  "author": "skgdev60",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.1"
+  }
+}
